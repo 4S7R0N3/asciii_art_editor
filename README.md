@@ -1,8 +1,9 @@
+Read it RAW! :P
+
 Edit your images. You can control contrast, saturation, brightness and invert colors. 
 
 You'll get a live preview and then you can just export your ASCII in HTML or copy'em as a text.
 
-Read it RAW! :P
 
 .__                           _____             
 |  |__ _____ ___  __ ____   _/ ____\_ __  ____  
